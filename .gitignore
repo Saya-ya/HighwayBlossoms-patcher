@@ -1,0 +1,6 @@
+# Archivos generados por build
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
